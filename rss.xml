@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PXD-FED]]></title><description><![CDATA[PXD-FED]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Oct 2019 03:01:02 GMT</lastBuildDate><item><title><![CDATA[exercise 1]]></title><description><![CDATA[exercise 1]]></description><link>https://pxd-fed.github.io/posts/ex1/</link><guid isPermaLink="false">https://pxd-fed.github.io/posts/ex1/</guid><pubDate>Mon, 07 Oct 2019 16:51:00 GMT</pubDate><content:encoded>&lt;h2&gt;2019. 10월 2주차&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PXD-FED]]></title><description><![CDATA[PXD-FED]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Oct 2019 03:06:10 GMT</lastBuildDate><item><title><![CDATA[exercise 1]]></title><description><![CDATA[exercise 1]]></description><link>https://pxd-fed.github.io/posts/ex1/</link><guid isPermaLink="false">https://pxd-fed.github.io/posts/ex1/</guid><pubDate>Mon, 07 Oct 2019 16:51:00 GMT</pubDate><content:encoded>&lt;h2&gt;2019. 10월 2주차&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;법정 의무 교육 이수하기
-바로 확인하기 : [http://smart.learning.co.kr/pxd]&lt;/li&gt;
+바로 확인하기 : &lt;a href=&quot;http://smart.learning.co.kr/pxd&quot;&gt;http://smart.learning.co.kr/pxd&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;gatsby 폴더 생성해서 push하기
 &lt;img src=&quot;/ce0df11d43be39ce2e675bbf40164815/gatsby-logo.svg&quot; alt=&quot;gatsby-logo&quot;&gt;&lt;/li&gt;
 &lt;li&gt;coding convention 확인하기
-바로 확인하기 : [https://www.notion.so/20ff41a23309401f8dd708f7fdb3f876]&lt;/li&gt;
+바로 확인하기 : &lt;a href=&quot;https://www.notion.so/20ff41a23309401f8dd708f7fdb3f876&quot;&gt;https://www.notion.so/20ff41a23309401f8dd708f7fdb3f876&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[샘플 페이지 입니다. Sample Page.]]></title><description><![CDATA[샘플페이지, 샘플페이지, sample page]]></description><link>https://pxd-fed.github.io/posts/sample-page/</link><guid isPermaLink="false">https://pxd-fed.github.io/posts/sample-page/</guid><pubDate>Fri, 20 Sep 2019 16:51:00 GMT</pubDate><content:encoded>&lt;p&gt;This is a Gatsby v2 compatible version of the
 &lt;a href=&quot;https://github.com/alxshelepenok/gatsby-starter-lumen&quot;&gt;lumen&lt;/a&gt; starter, started
 by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby Central&lt;/a&gt;.&lt;/p&gt;

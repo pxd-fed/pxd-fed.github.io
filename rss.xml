@@ -1,11 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PXD-FED]]></title><description><![CDATA[PXD-FED]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Oct 2019 07:46:17 GMT</lastBuildDate><item><title><![CDATA[exercise 2]]></title><description><![CDATA[exercise 2]]></description><link>https://pxd-fed.github.io/posts/ex2/</link><guid isPermaLink="false">https://pxd-fed.github.io/posts/ex2/</guid><pubDate>Tue, 08 Oct 2019 16:11:00 GMT</pubDate><content:encoded>&lt;h2&gt;2019년 10월 8일&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PXD-FED]]></title><description><![CDATA[PXD-FED]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Oct 2019 08:00:35 GMT</lastBuildDate><item><title><![CDATA[샘플 페이지 입니다. Sample Page2.]]></title><description><![CDATA[샘플페이지, 샘플페이지, sample page2]]></description><link>https://pxd-fed.github.io/posts/sample-page2/</link><guid isPermaLink="false">https://pxd-fed.github.io/posts/sample-page2/</guid><pubDate>Thu, 10 Oct 2019 16:51:00 GMT</pubDate><content:encoded>&lt;p&gt;This is a Gatsby v2 compatible version of the
+&lt;a href=&quot;https://github.com/alxshelepenok/gatsby-starter-lumen&quot;&gt;lumen&lt;/a&gt; starter, started
+by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby Central&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here’s a little recommended reading for Gatsby v2.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First, &lt;a href=&quot;https://www.gatsbycentral.com/whats-new-in-gatsby-v2&quot;&gt;what’s new in v2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Next, &lt;a href=&quot;https://www.gatsbycentral.com/when-should-i-upgrade-to-gatsby-v2&quot;&gt;when should I upgrade?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/&quot;&gt;The Gatsby v2 announcement blog post&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you &lt;strong&gt;do decide to upgrade&lt;/strong&gt;, these articles will help you do that.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gatsbycentral.com/getting-started-with-gatsby-v2&quot;&gt;Getting started with Gatsby v2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gatsbycentral.com/should-i-rebuild-my-site-for-gatsby-v2&quot;&gt;Should I rebuild my site for Gatsby v2?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gatsbycentral.com/how-do-layouts-work-in-gatsby-v2&quot;&gt;How do layouts work in Gatsby v2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gatsbycentral.com/staticquery-in-gatsby-v2&quot;&gt;StaticQuery in Gatsby v2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, here’s a cheat sheet we prepared to help during the upgrade:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gatsbycentral.com/gatsby-v2-refactoring-cheat-sheet&quot;&gt;Gatsby v2 refactoring cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The first transition&lt;/h2&gt;
+&lt;p&gt;A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.&lt;/p&gt;
+&lt;p&gt;The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 68.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAG9hSrMxf/EABoQAAICAwAAAAAAAAAAAAAAAAACARIQETH/2gAIAQEAAQUC4XYi2NqLZo//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARFBAhBx/9oACAEBAAY/AlqhSWSsoXD/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhQTFRYZH/2gAIAQEAAT8hbFV3ACrcETOK6tmKVsdRp+YPKwn/2gAMAwEAAgADAAAAEH/P/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EKyP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QJ//EABoQAQEAAgMAAAAAAAAAAAAAAAERACExQVH/2gAIAQEAAT8QUSVSDzkUkLU7uPEbsWpO9e3AkarliEANePcMDTSBSa5uf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;42-line-bible.jpg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
+        srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/3bc27/42-line-bible.jpg 240w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/98431/42-line-bible.jpg 480w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[exercise 2]]></title><description><![CDATA[exercise 2]]></description><link>https://pxd-fed.github.io/posts/ex2/</link><guid isPermaLink="false">https://pxd-fed.github.io/posts/ex2/</guid><pubDate>Tue, 08 Oct 2019 16:11:00 GMT</pubDate><content:encoded>&lt;h2&gt;2019년 10월 8일&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Amazon T2 인스턴스 알아보기&lt;br/&gt;
 자료1 : &lt;br/&gt;&lt;a href=&quot;https://aws.amazon.com/ko/ec2/instance-types/&quot;&gt;https://aws.amazon.com/ko/ec2/instance-types/&lt;/a&gt; &lt;br/&gt;
 자료2 : &lt;br/&gt;&lt;a href=&quot;https://aws.amazon.com/ko/blogs/korea/low-cost-burstable-ec2-instances/&quot;&gt;https://aws.amazon.com/ko/blogs/korea/low-cost-burstable-ec2-instances/&lt;/a&gt;&lt;br/&gt;
 자료3 : &lt;br/&gt;&lt;a href=&quot;http://blog.vpstadium.com/p963/&quot;&gt;http://blog.vpstadium.com/p963/&lt;/a&gt;&lt;br/&gt;
 자료4 : &lt;br/&gt;&lt;a href=&quot;http://blog.vpstadium.com/t2%ec%9d%b8%ec%8a%a4%ed%84%b4%ec%8a%a4-%ec%84%b1%eb%8a%a5-%ec%b8%a1%ec%a0%95sysbench/&quot;&gt;http://blog.vpstadium.com/t2%ec%9d%b8%ec%8a%a4%ed%84%b4%ec%8a%a4-%ec%84%b1%eb%8a%a5-%ec%b8%a1%ec%a0%95sysbench/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[exercise 1]]></title><description><![CDATA[exercise 1]]></description><link>https://pxd-fed.github.io/posts/ex1/</link><guid isPermaLink="false">https://pxd-fed.github.io/posts/ex1/</guid><pubDate>Mon, 07 Oct 2019 16:51:00 GMT</pubDate><content:encoded>&lt;h2&gt;2019. 10월 2주차&lt;/h2&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2019년 10월 9일&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[exercise 1]]></title><description><![CDATA[exercise 1]]></description><link>https://pxd-fed.github.io/posts/ex1/</link><guid isPermaLink="false">https://pxd-fed.github.io/posts/ex1/</guid><pubDate>Mon, 07 Oct 2019 16:51:00 GMT</pubDate><content:encoded>&lt;h2&gt;2019. 10월 2주차&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;법정 의무 교육 이수하기
 바로 확인하기 : &lt;a href=&quot;http://smart.learning.co.kr/pxd&quot;&gt;http://smart.learning.co.kr/pxd&lt;/a&gt;&lt;/li&gt;
